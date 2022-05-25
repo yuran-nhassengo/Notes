@@ -8,6 +8,7 @@ import androidx.fragment.app.FragmentActivity
 
      protected abstract val tag : String
      protected abstract fun getLayout(): Int
+     protected abstract fun getActivityTitle():Int
 
      override fun onCreate(savedInstanceState: Bundle?) {
          super.onCreate(savedInstanceState)
