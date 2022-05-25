@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Journale</string>
+    <string name="title">Title</string>
+    <string name="your_note_content_goes_here">Your note contente goes here</string>
+    <string name="pick_date">PICK A DATE</string>
+    <string name="pick_time">PICK A TIME</string>
 </resources>
